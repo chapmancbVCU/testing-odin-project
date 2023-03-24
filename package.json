@@ -1,0 +1,29 @@
+{
+  "name": "testing-odin-project",
+  "version": "1.0.0",
+  "description": "Lesson on testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chapmancbVCU/testing-odin-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chapmancbVCU/testing-odin-project/issues"
+  },
+  "homepage": "https://github.com/chapmancbVCU/testing-odin-project#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-typescript": "^7.21.0",
+    "@jest/globals": "^29.5.0",
+    "@types/jest": "^29.5.0",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
